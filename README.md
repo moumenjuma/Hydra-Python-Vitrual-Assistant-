@@ -6,7 +6,7 @@ A Virtual Voice Assistant
 Breakdown:
 
     Easy to download, change and learn.
-    Fast and expandible.
+    Fast and expandable.
 ---------------------------------------------------------------------------
 Technology:
 
