@@ -1,6 +1,7 @@
 # Hydra Virtual Assistant 
  A Virtual Voice Assistant
-  This Project is to create an Virtual Assistant available for more people.
+  
+ This Project is to create an Virtual Assistant available for more people.
 --------------------------------------------------------------------------
 Breakdown:
 
