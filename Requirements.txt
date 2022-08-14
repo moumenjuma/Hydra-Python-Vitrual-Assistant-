@@ -1,0 +1,5 @@
+SpeechRecognition == 3.8.1 
+    pip install SpeechRecognition
+
+pocketsphinx == 0.1.15
+    pip install pocketsphinx
