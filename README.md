@@ -10,7 +10,7 @@ Breakdown:
 ---------------------------------------------------------------------------
 Technology:
 
-    Speech Recofnition.
+    Speech Recognition.
     Speech Synthesis.
     Simple AI.
 
