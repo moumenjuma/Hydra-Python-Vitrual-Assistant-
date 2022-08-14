@@ -1,5 +1,5 @@
 # Hydra Virtual Assistant 
- A Virtual Voice Assistant
+ A Python Virtual Voice Assistant
   
  This Project is to create an Virtual Assistant available for more people.
 --------------------------------------------------------------------------
